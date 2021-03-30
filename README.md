@@ -27,3 +27,4 @@ printf("%s", data);
 - %x : 16진수(hexadecimal) 소문자로 출력
 - %X : 16진수(hexadecimal) 대문자로 출력
 
+## 5. 산술연산
