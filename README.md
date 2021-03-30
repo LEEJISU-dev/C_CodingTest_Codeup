@@ -3,17 +3,16 @@ CodeUP 코딩테스트 공부(기초 100제)
 
 ## 1. 출력
 	- 유니코드 특수문자를 출력하는 방법
-	```c
-	printf("\u250C\u252C\u2510\n");
-	```
+```c
+printf("\u250C\u252C\u2510\n");
+```
 ## 2. 입출력
 	- fgets( ) : 공백문자가 포함되어잇는 문장을 입력받아 저장할 수 있다.
-	```c
-	char data[2001];
-	fgets(data, 2000, stdin);
-	printf("%s", data);
-	```
-
+```c
+char data[2001];
+fgets(data, 2000, stdin);
+printf("%s", data);
+```
 	- C언어에서는 문장을 저장하기 위해 배열 사용. 문자열의 마지막에는 NULL 삽입.
 	
 ## 3. 데이터형
