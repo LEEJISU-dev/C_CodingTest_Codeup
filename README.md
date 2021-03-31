@@ -52,4 +52,7 @@ printf("%d", a << b); //2⁴ = 16 이 출력된다.
 - 비교/관계연산자 : 주어진 2개의 값을 비교하여 그 결과가 참인 경우 참(true)을 나타내는 정수값 1로 계산하고, 거짓인 경우 거짓(false)를 나타내는 정수값 0으로 계산한다.
 
 ## 8. 논리연산
-- 논리연산자 : !(not), &&(and), ||(or) 
+- 논리연산자 : !(not), &&(and), ||(or)
+
+## 9. 비트단위논리연산
+- 비트단위(bitwise) 연산자 : ~(bitwise not), &(bitwise and), |(bitwise or), ^(bitwise xor), <<(bitwise left shift), >>(bitwise right shift)
