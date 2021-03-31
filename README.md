@@ -56,3 +56,6 @@ printf("%d", a << b); //2⁴ = 16 이 출력된다.
 
 ## 9. 비트단위논리연산
 - 비트단위(bitwise) 연산자 : ~(bitwise not), &(bitwise and), |(bitwise or), ^(bitwise xor), <<(bitwise left shift), >>(bitwise right shift)
+
+## 10. 삼항연산
+- "조건식 ? (참일 때의 값) : (거짓일 때의 값)” 의 형태로 사용하는 연산자
